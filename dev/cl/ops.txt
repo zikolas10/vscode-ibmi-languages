@@ -128,7 +128,7 @@
  	ADDSMTPLE (Add SMTP List Entry) command
  	ADDSOCE (Add Sphere of Control Entry) command
  	ADDSRVTBLE (Add Service Table Entry) command
- 	 ADDSVCCPYD (Add SAN Volume Controller ASP Copy Description) command 
+ 	ADDSVCCPYD (Add SAN Volume Controller ASP Copy Description) command 
  	ADDSVRAUTE (Add Server Authentication Entry) command
  	ADDTAPCTG (Add Tape Cartridge) command
  	ADDTCPHTE (Add TCP/IP Host Table Entry) command
